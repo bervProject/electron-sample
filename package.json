@@ -1,0 +1,14 @@
+{
+  "name": "electron-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bervProject/electron-sample.git",
+  "author": "Bervianto Leo Pratama <bervianto.leo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^7.1.1"
+  }
+}
