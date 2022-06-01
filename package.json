@@ -13,7 +13,7 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.21.0",
     "@typescript-eslint/parser": "^5.27.0",
-    "electron": "^18.2.0",
+    "electron": "^19.0.1",
     "eslint": "^8.14.0",
     "typescript": "^4.7.2"
   }
