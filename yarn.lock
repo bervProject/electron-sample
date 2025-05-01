@@ -434,10 +434,10 @@ doctrine@^3.0.0:
   dependencies:
     esutils "^2.0.2"
 
-electron@^35.1.2:
-  version "35.1.2"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-35.1.2.tgz#48c4e45650691d5baad624716bf5230c363867b7"
-  integrity sha512-ipYSDZEV3+PpHfJ8/oWlpMCvxwutX6xLvBz2HRPgEzSFzgLmGO7YXTjEow4DhDtCpGE+b95NTGoJaRAVQi5n7A==
+electron@^36.0.1:
+  version "36.0.1"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-36.0.1.tgz#6364434ea2a7285af5dfc4d361e748c8d589c235"
+  integrity sha512-78DIXNi4W6ojeMt+O9/z+Miojioh1MW4H3oH+1sXwRpcu98RzxkW1/MjRvP0o0xiE6L1ZkoUkGDGC3E933YBAA==
   dependencies:
     "@electron/get" "^2.0.0"
     "@types/node" "^22.7.7"
