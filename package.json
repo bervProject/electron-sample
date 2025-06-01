@@ -14,7 +14,7 @@
     "@types/node": "^22.15.3",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
-    "electron": "^36.0.1",
+    "electron": "^36.3.2",
     "eslint": "^8.57.1",
     "typescript": "^5.8.3"
   }
