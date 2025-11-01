@@ -11,7 +11,7 @@
     "start": "npm run build && electron ./dist/"
   },
   "devDependencies": {
-    "@types/node": "^24.6.1",
+    "@types/node": "^24.9.2",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
     "electron": "^38.2.0",
