@@ -441,10 +441,10 @@ doctrine@^3.0.0:
   dependencies:
     esutils "^2.0.2"
 
-electron@^40.6.1:
-  version "40.6.1"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-40.6.1.tgz#f7dca0c028a13144abe2192ec2b6a75ef7418dfc"
-  integrity sha512-u9YfoixttdauciHV9Ut9Zf3YipJoU093kR1GSYTTXTAXqhiXI0G1A0NnL/f0O2m2UULCXaXMf2W71PloR6V9pQ==
+electron@^41.1.0:
+  version "41.1.0"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-41.1.0.tgz#21eff66ca8b86ae4c1c06512cf00bfae02e5edb4"
+  integrity sha512-0XRFyxRqetmqtkkBvV++wGbHYJ7bD++f6EgJW8y9kX4pPRagwlmKDtzqXZhKiu0DIQppm3sXxzHWK9GYP91OKQ==
   dependencies:
     "@electron/get" "^2.0.0"
     "@types/node" "^24.9.0"
