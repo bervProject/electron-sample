@@ -25,7 +25,9 @@
     </div>
   </section>
   <script>
-
+    document.getElementById('input').addEventListener('input', (e) => {
+      document.getElementById('output').value = e.target.value.split('').reverse().join('');
+    });
   </script>
   <script defer src="https://use.fontawesome.com/releases/v5.11.2/js/all.js"></script>
 </body>
