@@ -14,7 +14,7 @@
     "@types/node": "^25.5.2",
     "@typescript-eslint/eslint-plugin": "^8.58.0",
     "@typescript-eslint/parser": "^8.58.0",
-    "electron": "^41.1.0",
+    "electron": "^41.4.0",
     "eslint": "^10.1.0",
     "ts-node": "^10.9.2",
     "tsx": "^4.21.0",
