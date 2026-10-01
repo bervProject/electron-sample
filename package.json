@@ -15,7 +15,7 @@
     "@typescript-eslint/eslint-plugin": "^8.68.0",
     "@typescript-eslint/parser": "^8.68.0",
     "electron": "^44.4.5",
-    "eslint": "^10.9.1",
+    "eslint": "^10.11.0",
     "ts-node": "^10.9.2",
     "tsx": "^4.23.15",
     "typescript": "^6.0.3"
